@@ -25,7 +25,7 @@ A good format for an AI that analyzes moves by feasibility of playing, but not t
 
 NES Tetris Trainer (UI)
 
-  Tu-456 S-67
+    Tu-456 S-67
 
 This uses the seven conventional piece names, {IOLJTSZ} and specifies how many columns the
 piece spans when landing. Columns are labeled left to right starting with 1, and using a 0
@@ -100,3 +100,5 @@ Install [antlr-tools](https://www.antlr.org/tools.html) then you can run a test 
 
     antlr4-parse PortableTetrisNotation.g4 notation scuti.ptn
 
+This format description and the associated grammar are released to the public domain
+and are free for all uses.
