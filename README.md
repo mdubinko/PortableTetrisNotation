@@ -102,3 +102,6 @@ Install [antlr-tools](https://www.antlr.org/tools.html) then you can run a test 
 
 This format description and the associated grammar are released to the public domain
 and are free for all uses.
+
+This project is dedicated to Michael Sperberg-McQueen (1954-2024) without whom I
+wouldn't be nearly such a parser geek.
